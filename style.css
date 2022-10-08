@@ -1,0 +1,147 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&display=swap');
+
+
+body
+{
+    background-color:#393e46 ;
+    font-family: 'Bebas Neue';
+    padding: 0;
+    margin: 0;
+}
+
+.navigation
+{
+    background-color:#222831 ;
+    color: white;
+    padding:0.5rem;
+    
+}
+
+.link
+{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    color:  #f96d00;
+}
+
+
+.unorder-list 
+{
+    text-align: right;
+    list-style: none;
+}
+
+.item-list
+{
+    display: inline;
+    padding: 0rem 2rem;
+}
+
+.brand
+{
+    position: absolute;
+    left: 2%;
+    top: 0.05%;
+}
+
+.img
+{
+    background-color: #222831;
+    width: 20rem;
+    position: absolute;
+    border-bottom-left-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin: auto;
+    left: 1%;
+    top: 13%;
+}
+
+.hi
+{
+    font-family: 'Montserrat';
+    color: white;
+    position: absolute;
+    left: 22rem;
+    top:11rem;
+}
+
+.about
+{
+    font-family: 'Montserrat';
+    color: white;
+    position: absolute;
+    left: 22rem;
+    top: 17rem;
+}
+
+.bca
+{
+    font-family: 'Bebas Neue';
+    color: #f96d00;
+}
+
+.pdf
+{
+    font-family: 'Bebas Neue';
+    color: #f96d00;
+    position: absolute;
+    left: 22rem;
+    top: 30rem;
+}
+.tech
+{
+    color: #f96d00;
+    position: relative;
+    text-align: center;
+    top: 35rem;
+    
+}
+
+.text
+{
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat';
+
+}
+
+.footer
+{
+    background-color: #f96d00;
+    position: relative;
+    top:35rem;
+    
+}
+
+.footer-header
+{
+    text-align: center;
+}
+
+
+.footer-list
+{
+    text-align: center;
+}
+
+.logo-size
+{
+    width: 1.5rem;
+}
+
+.footer-item-list
+{
+    display: inline;
+    padding: 0.5rem;
+}
+
+.background
+{
+    width: 78rem;
+    max-height: 40rem;
+    position: absolute;
+    opacity: 0.1;
+}
