@@ -49,13 +49,14 @@ body
 .img
 {
     background-color: #222831;
-    width: 20rem;
+    max-width: 25%;
+    height: auto;
     position: relative;
     border-bottom-left-radius: 2rem;
     border-top-left-radius: 2rem;
     border-top-right-radius: 2rem;
     border-bottom-right-radius: 2rem;
-    /* margin: auto; */
+    margin: auto;
     left: 1rem;
     top: 1rem;
 }
