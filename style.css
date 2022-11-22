@@ -23,6 +23,7 @@ body
     text-decoration: none;
     padding: 0.5rem 1rem;
     color:  #f96d00;
+    letter-spacing: 0.07rem;
 }
 
 
@@ -81,12 +82,15 @@ body
 {
     font-family: 'Bebas Neue';
     color: #f96d00;
+    letter-spacing: 0.07rem;
+
 }
 
 .pdf
 {
     font-family: 'Bebas Neue';
     color: #f96d00;
+    letter-spacing: 0.07rem;
     position: absolute;
     left: 22rem;
     top: 30rem;
@@ -94,7 +98,8 @@ body
 .tech
 {
     color: #f96d00;
-    position: relative;
+    letter-spacing: 0.07rem;
+     position: relative;
     text-align: center;
     top: 35rem;
     
@@ -111,6 +116,7 @@ body
 .footer
 {
     background-color: #f96d00;
+    letter-spacing: 0.07rem;
     position: relative;
     top:35rem;
     
@@ -145,3 +151,38 @@ body
     position: absolute;
     opacity: 0.1;
 }
+
+.link-active
+{
+    font-weight: bold;
+}
+
+.grid-container {
+  display: grid;
+  height:500px;
+  align-content: center;
+  grid-template-columns: auto auto;
+  gap: 50px;
+  background-color: #393e46;
+  padding: 100px;
+  width: 50rem;
+}
+
+.grid-container > div {
+  background-color: #222831;
+  padding: 30px;
+  /* width: 25rem; */
+  font-family: 'Montserrat';
+  color: white;
+  border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.tag-note
+{
+    
+}
+
+
