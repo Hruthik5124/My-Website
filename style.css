@@ -55,9 +55,9 @@ body
     border-top-left-radius: 2rem;
     border-top-right-radius: 2rem;
     border-bottom-right-radius: 2rem;
-    margin: auto;
-    left: 1%;
-    top: 13%;
+    /* margin: auto; */
+    left: 1rem;
+    top: 1rem;
 }
 
 .hi
@@ -101,7 +101,7 @@ body
     letter-spacing: 0.07rem;
      position: relative;
     text-align: center;
-    top: 35rem;
+    top: 5rem;
     
 }
 
