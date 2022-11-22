@@ -50,7 +50,7 @@ body
 {
     background-color: #222831;
     width: 20rem;
-    position: absolute;
+    position: relative;
     border-bottom-left-radius: 2rem;
     border-top-left-radius: 2rem;
     border-top-right-radius: 2rem;
