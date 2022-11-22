@@ -14,7 +14,7 @@ body
 {
     background-color:#222831 ;
     color: white;
-    padding:0.5rem;
+    padding:0.5%;
     
 }
 
@@ -66,8 +66,8 @@ body
     font-family: 'Montserrat';
     color: white;
     position: absolute;
-    left: 22rem;
-    top:11rem;
+    left:28%;
+    top:30%;
 }
 
 .about
@@ -75,8 +75,8 @@ body
     font-family: 'Montserrat';
     color: white;
     position: absolute;
-    left: 22rem;
-    top: 17rem;
+    left: 28%;
+    top: 45%;
 }
 
 .bca
@@ -93,16 +93,16 @@ body
     color: #f96d00;
     letter-spacing: 0.07rem;
     position: absolute;
-    left: 22rem;
-    top: 30rem;
+    left: 28%;
+    top: 78%;
 }
 .tech
 {
     color: #f96d00;
     letter-spacing: 0.07rem;
-     position: relative;
+     position: absolute;
     text-align: center;
-    top: 5rem;
+    top: 95%;
     
 }
 
@@ -147,8 +147,8 @@ body
 
 .background
 {
-    width: 78rem;
-    max-height: 40rem;
+    width: 99%;
+    max-height: 90%;
     position: absolute;
     opacity: 0.1;
 }
