@@ -16,7 +16,7 @@ body
     background-color:#222831 ;
     color: white;
     padding:0.5rem;
-    max-width: 25rem;
+    max-width: 44rem;
 }
 
 .link
@@ -95,7 +95,7 @@ body
     letter-spacing: 0.07rem;
     position: absolute;
     left: 6.3rem;
-    top: 24rem;
+    top: 17rem;
 }
 .tech
 {
@@ -103,7 +103,7 @@ body
     letter-spacing: 0.07rem;
      position: absolute;
     text-align: center;
-    top: 30rem;
+    top: 25.5rem;
     
 }
 
@@ -120,7 +120,7 @@ body
     background-color: #f96d00;
     letter-spacing: 0.07rem;
     position: relative;
-    top:58rem;
+    top:48rem;
     
 }
 
@@ -148,8 +148,8 @@ body
 
 .background
 {
-    width: 99%;
-    max-height: 90%;
+    width: 44rem;
+    /* max-height: 100rem; */
     position: absolute;
     opacity: 0.1;
 }
