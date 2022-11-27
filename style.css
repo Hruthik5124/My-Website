@@ -183,14 +183,5 @@ body
     border-bottom-right-radius: 1rem;
 }
 
-@media screen and (min-width: 360px) {
-    .about {
-    /* display: flex; */
-    }
-    .box_1 {
-    background-color: dodgerblue;
-    color: white;
-    }
-    }
 
 
