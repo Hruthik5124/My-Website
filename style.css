@@ -23,7 +23,7 @@ body
 .link
 {
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0rem;
     color:  #f96d00;
     letter-spacing: 0.07rem;
 }
