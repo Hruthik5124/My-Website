@@ -51,16 +51,15 @@ body
 .img
 {
     background-color: #222831;
-    max-width: 25%;
+    max-width:7rem;
     height: auto;
     position: relative;
     border-bottom-left-radius: 0.2rem;
     border-top-left-radius: 0.2rem;
     border-top-right-radius: 0.2rem;
     border-bottom-right-radius: 0.2rem;
-    margin: auto;
     left: 0.3rem;
-    top: 1rem;
+    top: 0.3rem;
 }
 
 .hi
@@ -68,8 +67,8 @@ body
     font-family: 'Montserrat';
     color: white;
     position: absolute;
-    left:13rem;
-    top:6rem;
+    left:8rem;
+    top:5rem;
 }
 
 .about
@@ -77,8 +76,8 @@ body
     font-family: 'Montserrat';
     color: white;
     position: absolute;
-    left: 13.5rem;
-    top: 10rem;
+    left: 8.2rem;
+    top: 9rem;
 }
 
 .bca
@@ -95,16 +94,17 @@ body
     color: #f96d00;
     letter-spacing: 0.07rem;
     position: absolute;
-    left: 13.5rem;
-    top: 17rem;
+    left: 8.2rem;
+    top: 21rem;
 }
 .tech
 {
     color: #f96d00;
+    width: 25.7rem;
     letter-spacing: 0.07rem;
      position: absolute;
     text-align: center;
-    top: 25.5rem;
+    top: 28rem;
     
 }
 
@@ -121,7 +121,7 @@ body
     background-color: #f96d00;
     letter-spacing: 0.07rem;
     position: relative;
-    top:42rem;
+    top:50rem;
     
 }
 
@@ -149,8 +149,8 @@ body
 
 .background
 {
-    width: 720px;
-    /* max-height: 100rem; */
+    width: 25.7rem;
+    height: 23rem;
     position: absolute;
     opacity: 0.1;
 }
