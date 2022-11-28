@@ -150,9 +150,9 @@ body
 .background
 {
     width: 25.7rem;
-    height: 23rem;
+    height: 24rem;
     position: absolute;
-    opacity: 0.1;
+    opacity: 0.15;
 }
 
 .link-active
